@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gokul7499/ChatWebsite/static/css/main.50e7724a.css",
+    "main.js": "/gokul7499/ChatWebsite/static/js/main.c71e4c75.js",
+    "static/js/787.cda612ba.chunk.js": "/gokul7499/ChatWebsite/static/js/787.cda612ba.chunk.js",
+    "static/media/conversational.jpg": "/gokul7499/ChatWebsite/static/media/conversational.e9630b4a3909839ce404.jpg",
+    "static/media/background3.jpg": "/gokul7499/ChatWebsite/static/media/background3.ce52ce7e2a2d5d6d680d.jpg",
+    "static/media/chatbotbanner.svg": "/gokul7499/ChatWebsite/static/media/chatbotbanner.22ae4c676a4f04d775636eb4e2bd7ac7.svg",
+    "static/media/responsive.svg": "/gokul7499/ChatWebsite/static/media/responsive.0933301219b026b666cb2a148b0deacc.svg",
+    "static/media/Chat-bot-bro.svg": "/gokul7499/ChatWebsite/static/media/Chat-bot-bro.d126eda0cb9719091053955592f61a56.svg",
+    "static/media/robot.png": "/gokul7499/ChatWebsite/static/media/robot.767473adee84b66f8a73.png",
+    "static/media/user1.png": "/gokul7499/ChatWebsite/static/media/user1.45a0af68515332b42be9.png",
+    "index.html": "/gokul7499/ChatWebsite/index.html",
+    "main.50e7724a.css.map": "/gokul7499/ChatWebsite/static/css/main.50e7724a.css.map",
+    "main.c71e4c75.js.map": "/gokul7499/ChatWebsite/static/js/main.c71e4c75.js.map",
+    "787.cda612ba.chunk.js.map": "/gokul7499/ChatWebsite/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e7724a.css",
+    "static/js/main.c71e4c75.js"
+  ]
+}
